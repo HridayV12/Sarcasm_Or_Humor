@@ -1,0 +1,17 @@
+torch
+transformers
+scikit-learn
+pandas
+sentencepiece
+jupyter
+matplotlib
+jupyter_contrib_nbextensions
+widgetsnbextension
+huggingface_hub[hf_xet]
+tqdm
+notebook==6.4.12
+easyocr
+streamlit
+# python -m ipykernel install --user --name=myenv --display-name "Python (myenv)"
+# pip install -r requirements.txt
+# myenv310\Scripts\activate
