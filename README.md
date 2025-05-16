@@ -100,4 +100,4 @@ Save the final model as late_fusion_model.pth
 ```bash
 streamlit run app2.py
 ```
-
+Video Link -> https://drive.google.com/file/d/12HNTThnzaShX5YJ3qtjzygAl_ntN1cS7/view?usp=sharing
