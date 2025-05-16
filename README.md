@@ -59,7 +59,7 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 📦 Required Files (Manual Download)
 Due to file size limits on GitHub, you must manually download the following:
 
-images/	Meme image dataset Download
+images/	Meme image dataset Download https://drive.google.com/drive/folders/1S9J3AEpoT-Hm7vHxVgIapffn_oTJ9mB7?usp=sharing
 
 
 🔍 Model Overview
