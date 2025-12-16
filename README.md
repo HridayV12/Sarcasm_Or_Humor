@@ -64,6 +64,7 @@ images/	Meme image dataset Download https://drive.google.com/drive/folders/1S9J3
 
 🔍 Model Overview
 📖 Text Feature Extractors
+
 BERT (base, uncased)
 
 RoBERTa (base)
@@ -73,6 +74,7 @@ DistilBERT
 XLNet (base, cased)
 
 🖼 Image Feature Extractors
+
 ResNet50
 
 EfficientNet-B0
